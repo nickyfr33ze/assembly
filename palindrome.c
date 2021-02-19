@@ -1,4 +1,4 @@
-//?#include <stdio.h>
+#include <stdio.h>
 
 /**
 * Check if word is a palindrome
