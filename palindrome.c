@@ -1,4 +1,5 @@
-#include <stdio.h>
+//#include <stdio.h>
+/** Do not know what this file above is form **/
 
 /**
 * Check if word is a palindrome
