@@ -1,0 +1,49 @@
+CSC 344 - Spring 2021
+Programming Exercise 2
+
+Your objective for this assignment is to write an assembly function that given a pointer to the base of an array of integer values and an integer count of the number of elements in the array will return the mean of the values in that array as the function’s return result.
+
+In C the prototype for this function would appear as:
+
+int average(int *array, int num_elts);
+
+
+For this assignment you DO NOT need to input the array of integers. You are welcome to use a couple of statically initialized arrays declared in the data segment as the argument passed to your function.
+
+My goal with this assignment is to give you something that you should be able to complete in a short amount of time that we can then iterate over to build some further complexity.
+
+Your program should output the result of the calculation via a print statement as shown below:
+
+
+        .data
+array:  .word   894, 437, 694, 788, 302, 189, 842, 557, 257, 222
+ofmt:   .asciz  "the average is %d\n"
+        .align  2
+        .text
+        .global main
+
+avg:    stmfd   sp!, {lr}
+        // your implementation goes here
+
+        // remember to set r0 to the return result
+        ldmfd   sp!, {lr}
+        mov     pc, lr
+
+main:   stmfd   sp!, {lr}
+
+        ldr     r0, =array
+        mov     r1, #10
+        bl      avg
+
+        mov     r1, r0
+        ldr     r0, =ofmt
+        bl      printf
+
+        mov     r0, #0
+        ldmfd   sp!, {lr}
+        mov     pc, lr
+
+
+
+
+For the random array of values given the average should be 518.
