@@ -1,0 +1,7 @@
+Nick's Notes:
+1) We want to take input in an assembly code
+2) We want to be able to get input from
+    * A file 
+    * A cmd line argument
+    * Standard input
+
