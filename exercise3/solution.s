@@ -1,5 +1,6 @@
     .text
     .global main
+   
 
 main:
     sub sp, sp, #4
@@ -19,7 +20,7 @@ main:
 
 # Printing The Message
     mov r1, r2
-    bl  printf
+    bl  scanf
 
     ldr lr, [sp, #0]
     add sp, sp, #4
@@ -31,4 +32,7 @@ format:
     .asciz "Your Number Is %d \n"
 
 prompt:
-    .asciz "Enter A Number\n"
+    .asciz "Enter A Number\n" 
+    
+inputformat:   
+    .asciz  "%d"
