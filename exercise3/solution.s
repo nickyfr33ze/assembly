@@ -35,4 +35,4 @@ prompt:
     .asciz "Enter A Number\n" 
     
 inputformat:   
-    .asciz  "%d"
+    .asciz  "%d\n"
