@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="20210405_InClass" targetName="20210405_InClass" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58801f52-f023-4d01-ae55-0eff01d76ade" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../csc131_S2020/Projects/CommandWalkthroughVideo/src/csc/rocky/edu/gui/RemoteSlotChooser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/func_ptr_examples/comparators.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/func_ptr_examples/func_pointer.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/func_ptr_examples/func_pointer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pretty_print.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pretty_print.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sudoku_puzzle_adt/sudoku_puzzle.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sudoku_puzzle_adt/sudoku_puzzle.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc131_S2020/Gradebook.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc131_S2020/Gradebook.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc131_S2020/Projects/CommandWalkthroughVideo/src/csc/rocky/edu/gui/RemoteControlGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc131_S2020/Projects/CommandWalkthroughVideo/src/csc/rocky/edu/gui/RemoteControlGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc131_S2020/Projects/CommandWalkthroughVideo/src/csc/rocky/edu/gui/RemoteSlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc131_S2020/Projects/CommandWalkthroughVideo/src/csc/rocky/edu/gui/RemoteSlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc330_F2019/Labs/2019/Lab3 - RDT/NetworkSimulator_Student/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc330_F2019/Labs/2019/Lab3 - RDT/NetworkSimulator_Student/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc330_F2019/Labs/2019/Lab3 - RDT/NetworkSimulator_Student/out/artifacts/NetworkSimulator_Student_jar/NetworkSimulator_Student.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc330_F2019/Labs/2019/Lab3 - RDT/NetworkSimulator_Student/out/artifacts/NetworkSimulator_Student_jar/NetworkSimulator_Student.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc330_F2019/Labs/2019/Lab3 - RDT/NetworkSimulator_Student/src/ErrorFreeTransportLayerReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc330_F2019/Labs/2019/Lab3 - RDT/NetworkSimulator_Student/src/ErrorFreeTransportLayerReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc330_F2019/Labs/2019/Lab3 - RDT/NetworkSimulator_Student/src/ErrorFreeTransportLayerSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc330_F2019/Labs/2019/Lab3 - RDT/NetworkSimulator_Student/src/ErrorFreeTransportLayerSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc330_F2019/Labs/2019/Lab3 - RDT/NetworkSimulator_Student/src/NetworkSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc330_F2019/Labs/2019/Lab3 - RDT/NetworkSimulator_Student/src/NetworkSimulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc330_F2019/Labs/2019/Lab3 - RDT/NetworkSimulator_Student/src/TransportLayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc330_F2019/Labs/2019/Lab3 - RDT/NetworkSimulator_Student/src/TransportLayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc330_F2019/Labs/2019/Lab3 - RDT/NetworkSimulator_Student/src/TransportLayerPacket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc330_F2019/Labs/2019/Lab3 - RDT/NetworkSimulator_Student/src/TransportLayerPacket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc344" beforeDir="true" afterPath="$PROJECT_DIR$/../../csc344" afterDir="true" />
+      <change beforePath="$PROJECT_DIR$/../../csc344_S2019/asm/notes/GNU-ASM-directives.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc344_S2019/asm/notes/GNU-ASM-directives.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc344_S2019/assignments/2019/Lab5_Code/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc344_S2019/assignments/2019/Lab5_Code/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc344_S2019/assignments/2019/final/Sudoku/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc344_S2019/assignments/2019/final/Sudoku/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc344_S2019/assignments/2019/final/Sudoku/sudoku.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc344_S2019/assignments/2019/final/Sudoku/sudoku.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc344_S2019/csc344_solutions/csc344_assign4_sudoku/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc344_S2019/csc344_solutions/csc344_assign4_sudoku/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc344_S2019/csc344_solutions/csc344_assign4_sudoku/puzzle.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc344_S2019/csc344_solutions/csc344_assign4_sudoku/puzzle.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc344_S2019/csc344_solutions/csc344_assign4_sudoku/puzzle.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc344_S2019/csc344_solutions/csc344_assign4_sudoku/puzzle.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeFiles/in_class_20190425.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeFiles/in_class_20190425.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeFiles/in_class_20190425.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeFiles/in_class_20190425.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeFiles/in_class_20190425.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeFiles/in_class_20190425.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeFiles/in_class_20190425.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeFiles/in_class_20190425.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeFiles/in_class_20190425.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/CMakeFiles/in_class_20190425.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/in_class_20190425.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc344_S2019/notes/in-class-20190425/cmake-build-debug/in_class_20190425.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csc344_S2019/syllabus.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../csc344_S2019/syllabus.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1qknEQJDpXUeBRFoy00BVq1D1o2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/func_ptr_examples" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="20210405_InClass" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="20210405_InClass" TARGET_NAME="20210405_InClass" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="20210405_InClass" RUN_TARGET_NAME="20210405_InClass">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58801f52-f023-4d01-ae55-0eff01d76ade" name="Default Changelist" comment="" />
+      <created>1617632343645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617632343645</updated>
+      <workItem from="1617632344923" duration="12063000" />
+      <workItem from="1617661922689" duration="69000" />
+      <workItem from="1617662000257" duration="3524000" />
+    </task>
+    <servers />
+  </component>
+  <component name="hg4idea.settings">
+    <option name="CHECK_INCOMING_OUTGOING" value="true" />
+    <option name="RECENT_HG_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+</project>

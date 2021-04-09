@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/aaron/Courseware/csc344_S2021/20210405_InClass/func_ptr_examples/comparators.c
+string.h
+-
+comparators.h
+/Users/aaron/Courseware/csc344_S2021/20210405_InClass/func_ptr_examples/comparators.h
+
+/Users/aaron/Courseware/csc344_S2021/20210405_InClass/func_ptr_examples/comparators.h
+
+/Users/aaron/Courseware/csc344_S2021/20210405_InClass/func_ptr_examples/func_pointer.h
+stdlib.h
+-
+
+/Users/aaron/Courseware/csc344_S2021/20210405_InClass/main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+func_ptr_examples/func_pointer.h
+/Users/aaron/Courseware/csc344_S2021/20210405_InClass/func_ptr_examples/func_pointer.h
+func_ptr_examples/comparators.h
+/Users/aaron/Courseware/csc344_S2021/20210405_InClass/func_ptr_examples/comparators.h
+pretty_print.h
+/Users/aaron/Courseware/csc344_S2021/20210405_InClass/pretty_print.h
+
+/Users/aaron/Courseware/csc344_S2021/20210405_InClass/pretty_print.h
+stdio.h
+-
+
