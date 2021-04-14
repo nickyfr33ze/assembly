@@ -5,18 +5,24 @@ ofmt:   .asciz  "the average is %d\n"
         .text
         .global main
 
-avg:    stmfd   sp!, {lr}
-        // your implementation goes here
-        
-        mov     r2, =array      @ moves the array in to r2
-        mov     r3, #10         @ this moves the value 10 into r3
-        div     [r3]            @ divides r2 by r3
-        ldr     r0, r3          @ loads our retrun register (r0) with the answer in r3
-        bl      avg             @ finishes the program
+avg:    stmfd	sp!, {r4, r5, r6, lr}
+	mov	r4, r0			@ r4 is array
+	mov	r5, r1			@ r5 is num_elts
+	mov	r6, #0			@ r6 is sum (of elts)
+	
+	mov	r0, #0			@ for (i=0, i<num_elts, i++)
+lp1:	cmp	r0, r5
+	bge	elp1
 
-        // remember to set r0 to the return result
-        ldmfd   sp!, {lr}
-        mov     pc, lr
+	ldr	r1, [r4, r0, lsl #2]	@ r1 = array[i]
+	add	r6, r6, r1		@ r6 is our accumulator
+	
+	add	r0, r0, #1
+	b 	lp1
+	
+elp1:	sdiv	r0,r6,r0		
+	ldmfd	sp!, {r4, r5, r6, lr}
+	mov	pc, lr
 
 main:   stmfd   sp!, {lr}
 
@@ -28,3 +34,6 @@ main:   stmfd   sp!, {lr}
         ldr     r0, =ofmt
         bl      printf
 
+        mov r0, #0
+        ldmfd   sp!, {lr}
+        mov pc, lr
