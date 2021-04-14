@@ -49,6 +49,7 @@ int array_list_get(struct array_list *list, int index) {
   }
 
   // uh-oh, what do we return here???
+  return list->storage[index]; // returns from the list pointer that points to the indexed value that is located in the storage[i]
   return INT_MAX;
 }
 
